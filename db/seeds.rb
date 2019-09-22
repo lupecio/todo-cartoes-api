@@ -8,8 +8,8 @@ Category.create([
 ])
 
 Product.create([
-  { name: 'RX 580', description: 'RX 580', price: '1000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/carrinho.jpg', category_id: 2 },
-  { name: 'Aerocool', description: 'Aerocool', price: '2000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/carrinho.jpg', category_id: 3 },
-  { name: 'Iphone', description: 'Iphone', price: '3000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/carrinho.jpg', category_id: 5 },
-  { name: 'Galaxy', description: 'Galaxy', price: '4000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/carrinho.jpg', category_id: 6 }
+  { name: 'RX 580', description: 'RX 580', price: '1000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/placa-de-video.png', category_id: 2 },
+  { name: 'Aerocool', description: 'Aerocool', price: '2000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/gabinete.jpg', category_id: 3 },
+  { name: 'Iphone', description: 'Iphone', price: '3000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/iphone.png', category_id: 5 },
+  { name: 'Galaxy', description: 'Galaxy', price: '4000.00', image: 'https://todo-cartoes-api.s3-sa-east-1.amazonaws.com/galaxy.jpg', category_id: 6 }
 ])
