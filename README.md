@@ -15,3 +15,7 @@ bundle install
 ```bash
 rails db:migrate db:seed
 ```
+
+```bash
+rails s
+```
